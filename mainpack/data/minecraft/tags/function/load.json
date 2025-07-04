@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "snowplay:load",
+        "arms:load",
+        "mot:l_main",
+        "detecthit:l_main"
+    ]
+}

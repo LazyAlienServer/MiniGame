@@ -1,1 +1,0 @@
-execute as @s run tellraw @s {"text":"ERROR","color":"red","clickEvent":{"action":"open_url","value":"https://lazyalienserver.top/"}}

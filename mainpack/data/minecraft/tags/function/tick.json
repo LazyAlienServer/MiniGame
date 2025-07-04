@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        "snowplay:tick",
+        "arms:tick",
+        "mot:t_main",
+        "mot:radom_main",
+        "mot:tag_api",
+        "detecthit:t_main",
+        "detecthit:par"
+    ]
+}
