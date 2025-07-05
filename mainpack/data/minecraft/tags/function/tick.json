@@ -1,5 +1,7 @@
 {
 	"values": [
-		"game:flag/t_main","game:flag/radom_main"
+		"game:flag/t_main",
+		"game:flag/radom_main",
+		"game:base/playercheck/t_main"
 	]
 } 

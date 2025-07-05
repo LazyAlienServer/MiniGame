@@ -1,5 +1,6 @@
 {
 	"values": [
-		"game:flag/l_main"
+		"game:flag/l_main",
+		"game:base/playercheck/l_main"
 	]
 } 
