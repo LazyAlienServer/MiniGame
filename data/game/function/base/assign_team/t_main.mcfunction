@@ -1,0 +1,1 @@
+#execute if entity @a[team=!red,team=!blue] run function game:base/assign_team/autoteam

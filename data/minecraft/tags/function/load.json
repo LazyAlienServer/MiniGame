@@ -1,6 +1,6 @@
 {
 	"values": [
-		"game:flag/l_main",
-		"game:base/playercheck/l_main"
+		"game:base/l_main",
+		"player_motion:internal/technical/load"
 	]
 } 
