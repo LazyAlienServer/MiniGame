@@ -1,0 +1,1 @@
+give @s bow[enchantments={power:10},enchantment_glint_override=false,unbreakable={},tooltip_display={hidden_components:["unbreakable","enchantments"]},custom_name={color:white,text:"弓"}]

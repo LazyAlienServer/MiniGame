@@ -2,6 +2,10 @@
 	"values": [
 		"game:flag/t_main",
 		"game:flag/radom_main",
-		"game:base/playercheck/t_main"
+		"game:base/playercheck/t_main",
+		"mot:t_main",
+        "mot:radom_main",
+        "mot:tag_api",
+		"weapon:t_main"
 	]
 } 

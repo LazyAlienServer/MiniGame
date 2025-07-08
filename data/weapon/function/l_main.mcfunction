@@ -1,0 +1,1 @@
+scoreboard objectives add wp.hore_probe minecraft.used:minecraft.goat_horn

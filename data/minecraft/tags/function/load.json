@@ -1,6 +1,8 @@
 {
 	"values": [
 		"game:base/l_main",
-		"player_motion:internal/technical/load"
+		"player_motion:internal/technical/load",
+		"mot:l_main",
+		"weapon:l_main"
 	]
 } 
